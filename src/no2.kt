@@ -2,7 +2,7 @@ fun main() {
     ValueLevel("123456")
 }
 
-fun ValueLevel(number: String) : String {
+fun ValueLevel(number: String) {
     for (i in number.length downTo 1) {
         for (a in i..number.length) {
             print(" ")
@@ -18,5 +18,4 @@ fun ValueLevel(number: String) : String {
 
         println("")
     }
-    return ""
 }
