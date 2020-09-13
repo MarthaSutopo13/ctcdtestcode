@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b179737-416a-40ca-8dca-4ccec481c4c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/test-code-ctcd/No3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test-code-ctcd/No3Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/no2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/no3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/no3.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Kotlin.No2Kt">
+  <component name="RunManager" selected="Kotlin.No3Kt">
     <configuration name="No1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="test-code-ctcd" />
       <option name="VM_PARAMETERS" />
@@ -77,8 +75,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.No2Kt" />
         <item itemvalue="Kotlin.No3Kt" />
+        <item itemvalue="Kotlin.No2Kt" />
         <item itemvalue="Kotlin.No1Kt" />
       </list>
     </recent_temporary>
@@ -109,25 +107,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1599928521842">
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1600006787455">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1599928521842" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1600006787455" />
     <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1599919168507" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1599928521841">
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1600006787453">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1599928521841" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1600006787453" />
     <state width="1638" height="295" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1599919168506" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1599928521840">
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1600006787452">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1599928521840" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1600006787452" />
     <state width="1638" height="295" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1599919168506" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1599928521841">
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1600006787454">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1599928521841" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1600006787454" />
     <state width="1638" height="295" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1599919168507" />
   </component>
 </project>
